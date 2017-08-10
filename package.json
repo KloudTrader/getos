@@ -1,5 +1,5 @@
 {
-  "name": "getos",
+  "name": "picluster-getos",
   "version": "3.0.1",
   "description": "Get the OS/Distribution name of the environment you are working on",
   "main": "index.js",
@@ -12,19 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/retrohacker/getos.git"
+    "url": "https://github.com/aidanharris/getos.git"
   },
   "keywords": [
     "OS",
     "Distribution",
     "Platform"
   ],
-  "author": "william.jblankenship@gmail.com",
+  "author": "mail@aidanharris.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/retrohacker/getos/issues"
+    "url": "https://github.com/aidanharris/getos/issues"
   },
-  "homepage": "https://github.com/retrohacker/getos",
+  "homepage": "https://github.com/aidanharris/getos",
   "devDependencies": {
     "cli-color": "1.2.0",
     "execSync": "1.0.2",
@@ -35,6 +35,11 @@
     "async": "2.3.0"
   },
   "contributors": [
+    {
+      "name": "retrohacker (original developer)",
+      "email": "william.jblankenship@gmail.com",
+      "url": "https://github.com/retrohacker/getos"
+    },
     {
       "name": "Benjamin E. Coe",
       "email": "bencoe@gmail.com",
